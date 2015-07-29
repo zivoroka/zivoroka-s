@@ -1,0 +1,13 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\15.AgeAfterTenYears\obj\Debug\15.AgeAfterTenYears.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\15.AgeAfterTenYears\bin\Debug\15.AgeAfterTenYears.pdb

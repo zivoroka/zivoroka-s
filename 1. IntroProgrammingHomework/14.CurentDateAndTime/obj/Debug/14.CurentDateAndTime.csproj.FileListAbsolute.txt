@@ -1,0 +1,10 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\14.CurentDateAndTime\bin\Debug\14.CurentDateAndTime.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\14.CurentDateAndTime\bin\Debug\14.CurentDateAndTime.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\14.CurentDateAndTime\bin\Debug\14.CurentDateAndTime.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\14.CurentDateAndTime\obj\Debug\14.CurentDateAndTime.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\14.CurentDateAndTime\obj\Debug\14.CurentDateAndTime.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\14.CurentDateAndTime\bin\Debug\14.CurentDateAndTime.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\14.CurentDateAndTime\obj\Debug\14.CurentDateAndTime.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\14.CurentDateAndTime\obj\Debug\14.CurentDateAndTime.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\14.CurentDateAndTime\bin\Debug\14.CurentDateAndTime.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\14.CurentDateAndTime\bin\Debug\14.CurentDateAndTime.pdb

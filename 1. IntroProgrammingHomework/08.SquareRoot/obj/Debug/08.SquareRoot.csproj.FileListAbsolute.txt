@@ -1,0 +1,14 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.csprojResolveAssemblyReference.cache
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\08.SquareRoot\bin\Debug\08.SquareRoot.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\08.SquareRoot\obj\Debug\08.SquareRoot.pdb

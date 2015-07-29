@@ -1,0 +1,13 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\09.PrintASequance\obj\Debug\09.PrintASequance.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\09.PrintASequance\obj\Debug\09.PrintASequance.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\09.PrintASequance\obj\Debug\09.PrintASequance.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\09.PrintASequance\obj\Debug\09.PrintASequance.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\09.PrintASequance\obj\Debug\09.PrintASequance.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\09.PrintASequance\obj\Debug\09.PrintASequance.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\09.PrintASequance\bin\Debug\09.PrintASequance.pdb

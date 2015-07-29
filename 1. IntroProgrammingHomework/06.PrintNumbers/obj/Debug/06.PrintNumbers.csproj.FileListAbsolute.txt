@@ -1,0 +1,14 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.csprojResolveAssemblyReference.cache
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\06.PrintNumbers\bin\Debug\06.PrintNumbers.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\06.PrintNumbers\obj\Debug\06.PrintNumbers.pdb

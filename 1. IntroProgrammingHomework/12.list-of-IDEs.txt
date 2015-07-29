@@ -1,0 +1,36 @@
+1. Code::Blocks, an extensible and fully configurable IDE designed to support its users most demanding needs, 
+supports C, C++ and Fortran. It provides a consistent look, feel and operation across all platforms for 
+seamless transitions between work spaces, and it’s built around a plug-in framework, providing a 
+multitude of options for extension. It’s open-source and offers cross-platform functionality with no hidden costs.
+
+2. CodeLite - An Open-Source, cross-platform IDfor C+ and C++ coding languages, 
+CodeLite works on all major platforms. CodeLite offers a variety of features, 
+including two built-in completion engines, compilers, refactoring, code navigation and more
+
+
+3. DialogBlocks - A cross-platform GUI coding assistant, DialogBlocks is a simple tool to easily edit dialogs
+ and generate code.If you need to build wxWidgets GUIs, DialogBlocks makes it fast and simple. 
+Create professional dialogs, wizards and frames for deployment on Windows, Linux, and Mac, or any 
+other supported wxWidgets platform.
+
+4. Eclipse - Many development frameworks are built on Eclipse, a free, open-source editor that was initially 
+a Java environment but a variety of plug-ins have extended its capabilities considerably. The Eclipse 
+Standard 4.3.2 version, for instance, includes the Eclipse Platform along with the tools required to debug it, 
+plus Java and Plugin Development Tooling and Git and CVS support. If your requirements are different, you can 
+choose from a variety of Eclipse Package Solutions, including tools for Java developers, Scout Developers, 
+RCP and RAP Developers and more.
+
+5. NetBeans - An intuitive, drag-and-drop interface with project templates, binary and static libraries, and 
+many useful functions to make your life simpler, NetBeans is a popular IDE for C and C++ projects. It 
+also supports Fortan and Assembler files, with GNU Debugger Integration and code assistance, NetBeans 
+is a functional IDE for editing existing projects, building on templates or building from scratch on 
+most leading platforms. There are also multiple NetBeans Enterprise IDE Download Bundles with options 
+that support several additional technologies, including Java, PHP, HTML5 and more.
+
+6. Aptana Studio 3
+If web and scripting languages are more of your style, Aptana is well suited for the task. PHP, Ruby on Rails, and Python are supported as well as the likes of Adobe AIR. Even the studio itself is available as a plugin for Eclipse if you prefer the way Aptana handles your work and want to combine it with a more comprehensive IDE. Aptana Studio 3 is free and available solely under the GNU General Public License.
+
+7. Oracle Netbeans 7
+If you are more of a Java developer, Oracle's got your back with their Netbeans IDE. Of course, despite the fact that excellent Java support is its claim to fame going as far back as the Sun Microsystems days, other languages like C/C++, Ruby, HTML5, PHP and more are supported as well. Netbeans is extremely extensible via its plugin-centric design, allowing you to add additional language syntax support and libraries, among other things. Netbeans is free under theCommon Development and Distribution License (CDDL) v1.0 and GNU General Public License (GPL) v2.
+
+Microsoft Visual Studio is an integrated development environment (IDE) from Microsoft. It is used to develop computer programs for Microsoft Windows, as well as web sites, web applications and web services. Visual Studio uses Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, Windows Store and Microsoft Silverlight. It can produce both native code and managed code.

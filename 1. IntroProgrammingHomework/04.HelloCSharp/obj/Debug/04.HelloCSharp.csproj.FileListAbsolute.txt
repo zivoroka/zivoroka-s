@@ -1,0 +1,12 @@
+C:\Users\zivoroka\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+C:\Users\zivoroka\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe
+C:\Users\zivoroka\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.pdb
+C:\Users\zivoroka\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.csprojResolveAssemblyReference.cache
+C:\Users\zivoroka\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+C:\Users\zivoroka\Documents\Visual Studio 2013\Projects\IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\04.HelloCSharp\bin\Debug\04.HelloCSharp.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\04.HelloCSharp\obj\Debug\04.HelloCSharp.pdb

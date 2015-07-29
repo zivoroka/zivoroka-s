@@ -1,0 +1,11 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\05.PrintMyName\bin\Debug\05.PrintMyName.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\05.PrintMyName\bin\Debug\05.PrintMyName.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\05.PrintMyName\bin\Debug\05.PrintMyName.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\05.PrintMyName\obj\Debug\05.PrintMyName.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\05.PrintMyName\obj\Debug\05.PrintMyName.pdb

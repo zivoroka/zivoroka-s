@@ -1,0 +1,8 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatTheCode\obj\Debug\10.ReformatTheCode.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\10.ReformatTheCode\obj\Debug\10.ReformatTheCode.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\10.ReformatTheCode\bin\Debug\10.ReformatTheCode.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\10.ReformatTheCode\obj\Debug\10.ReformatTheCode.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\10.ReformatTheCode\obj\Debug\10.ReformatTheCode.pdb

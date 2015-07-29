@@ -1,0 +1,17 @@
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.exe.config
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.pdb
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.exe
+c:\users\zivoroka\documents\visual studio 2013\Projects\IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.csprojResolveAssemblyReference.cache
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.exe.config
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.exe
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\07.PrintFirstAndLastNamen\bin\Debug\07.PrintFirstAndLastNamen.pdb
+C:\Users\zivoroka\Desktop\Programming Basics\Programming Basics - май 2015, Варна\Homework\1. IntroProgrammingHomework\07.PrintFirstAndLastNamen\obj\Debug\07.PrintFirstAndLastNamen.csprojResolveAssemblyReference.cache
